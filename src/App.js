@@ -7,11 +7,6 @@ const ANAKIN_IMAGE = "https://static1.personality-database.com/profile_images/0b
 
 const RAY_IMAGE = "https://specials-images.forbesimg.com/imageserve/5e63b3c8e1e617000759130e/960x0.jpg?fit=scale";
 
-// const comment = <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-// const repost = "./"
-// const like = "./"
-// const download = "./"
-
 const data = [
   {
     author: {
