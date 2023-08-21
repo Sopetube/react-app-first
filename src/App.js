@@ -28,7 +28,7 @@ const data = [
 function App() {
 
   return (
-    <>
+    <> 
       {data.map((item, i) => 
         <Post post={item} key={i}/>     
       )}
